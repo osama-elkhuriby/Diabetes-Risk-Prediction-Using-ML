@@ -1,4 +1,4 @@
-Project Summary: Diabetes Prediction System
+Diabetes Prediction System
 
 This project implements an end-to-end machine learning pipeline for diabetes prediction using clinical and demographic health data. The system focuses on data preprocessing, model comparison, and deployment to deliver a practical and interpretable predictive solution.
 
